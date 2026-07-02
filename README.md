@@ -1,4 +1,4 @@
 # apnacollege-demo
 My git repository
 <br>
-Author - Rohit Pembarthi
+Author - Rohit Pembarthi (From Hyderabad)
